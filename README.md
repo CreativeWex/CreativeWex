@@ -12,17 +12,24 @@ and coding of course 🖥️
 <br />
 <br />
 
-## Languages And Tools
+## Languages
 ![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=C&logoColor=#7f8b99)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=CSharp&logoColor=671a7a)
-![LinuxTerminal](https://img.shields.io/badge/-Shell-090909?style=for-the-badge&logo=linux&logoColor=333333)
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=f8d05e)
-![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=2daaff)
+![Markdown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown&logoColor=ffffff)
+<br />
 
+### Tools
+
+![LinuxTerminal](https://img.shields.io/badge/-Shell-090909?style=for-the-badge&logo=linux&logoColor=ffffff)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-090909?style=for-the-badge&logo=visualstudio&logoColor=9999ff)
+![VSCode](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=66ccff)
 
 ## Contact me:
-[![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
+
+[![Vk](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=65486)](https://twitter.com/CreativeWex)
 
 
 ## GitHub Stats:
