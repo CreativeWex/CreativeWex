@@ -1,6 +1,6 @@
 [![Header](https://github.com/CreativeWex/CreativeWex/blob/main/assets/header.png)](https://vk.com/bereznev0n)
 
-### Hi there 👋, My name is Nikita and I'm
+### Hi there 👋, My name is [Nikita](https://vk.com/bereznev0n) and I'm
 
 ## Student of School 21 (Russian franchise of French school 42) and KSPEU
 I like
@@ -26,6 +26,6 @@ and coding of course 🖥️
 
 
 ## GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 
