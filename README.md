@@ -1,6 +1,6 @@
 [![Header](https://github.com/CreativeWex/CreativeWex/blob/main/assets/header.png)](https://vk.com/bereznev0n)
 
-### Hi there 👋, I'm Nikita
+### Hi there 👋, My name is Nikita and I'm
 
 ## Student of School 21 (Russian franchise of French school 42) and KSPEU
 I like
