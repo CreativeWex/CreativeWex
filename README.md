@@ -20,12 +20,10 @@ and coding of course 🖥️
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=f8d05e)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=2daaff)
 
-<br />
 
 ## Contact me:
 [![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
 
-<br />
 
 ## GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex)](https://github.com/anuraghazra/github-readme-stats)
