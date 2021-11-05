@@ -1,4 +1,4 @@
-[![Header](https://github.com/CreativeWex/CreativeWex/blob/main/assets/header.png)](https://vk.com/bereznev0n)
+[![Header]()](https://vk.com/bereznev0n)
 
 ### Hi there 👋, My name is [Nikita](https://vk.com/bereznev0n) and I'm
 
