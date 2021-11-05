@@ -26,6 +26,6 @@ and coding of course 🖥️
 
 
 ## GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeWex&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex&layout=compact)
 
