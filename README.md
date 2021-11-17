@@ -3,14 +3,9 @@
 ### Hi there 👋, My name is [Nikita](https://vk.com/bereznev0n) and I'm
 
 ## Student of School 21 (Russian franchise of French school 42) and KSPEU
-I like
-- ✏️ Drawing
-- 💪 Training
-- 🎮 Videogames
+My School_21 Progress
 
-and coding of course 🖥️
-<br />
-<br />
+![My progress](https://badge42.herokuapp.com/api/stats/jnidorin)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=C&logoColor=#7f8b99)
@@ -30,9 +25,6 @@ and coding of course 🖥️
 
 [![Vk](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=65486)](https://twitter.com/CreativeWex)
-
-##School 21 Progress:
-![My progress](https://badge42.herokuapp.com/api/stats/jnidorin)
 
 ## GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeWex&show_icons=true)
