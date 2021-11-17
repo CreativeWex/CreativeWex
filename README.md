@@ -31,6 +31,8 @@ and coding of course 🖥️
 [![Vk](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=65486)](https://twitter.com/CreativeWex)
 
+##School 21 Progress:
+![My progress](https://badge42.herokuapp.com/api/stats/jnidorin)
 
 ## GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeWex&show_icons=true)
