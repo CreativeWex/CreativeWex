@@ -3,7 +3,6 @@
 ### Hi there 👋, My name is [Nikita](https://vk.com/bereznev0n) and I'm
 
 ## Student of School 21 (Russian franchise of French school 42) and KSPEU
-My School_21 Progress
 
 ![My progress](https://badge42.herokuapp.com/api/stats/jnidorin)
 
