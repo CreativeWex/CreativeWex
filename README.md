@@ -4,7 +4,7 @@
 
 ## Student of [School 21](https://21-school.ru/) (Russian franchise of [École 42](https://en.wikipedia.org/wiki/42_(school))) and [KSPEU](https://ru.wikipedia.org/wiki/Казанский_государственный_энергетический_университет)
 
-![jnidorin's 42 stats](https://badge42.vercel.app/api/v2/cl1xlr5l4002509mgjzkhp93g/stats?cursusId=21&coalitionId=99)](https://github.com/JaeSeoKim/badge42)
+![[jnidorin's 42 stats](https://badge42.vercel.app/api/v2/cl1xlr5l4002509mgjzkhp93g/stats?cursusId=21&coalitionId=99)](https://github.com/JaeSeoKim/badge42)
 ## Languages
 ![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=C&logoColor=#7f8b99)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
