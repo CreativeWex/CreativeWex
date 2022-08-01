@@ -23,9 +23,3 @@
 ## Contact me:
 
 [![Vk](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/bereznev0n)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=65486)](https://twitter.com/CreativeWex)
-
-## GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeWex&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeWex&layout=compact)
-
